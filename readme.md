@@ -7,4 +7,4 @@ Desky is an open-source macro pad that has expansion ports on 3 sides for easy c
 
 # Design Files
 
-Attached below are the design files needed to create Desky for yourself.
+The design files necessary to create Desky for yourself are included in the download
