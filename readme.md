@@ -36,7 +36,7 @@ What you'll need to make Desky:
 
 5. Connect the Adafruit KB2040 to your PC using a USB-C data cable.
 
-6. After a few seconds, a drive should appear on your PC. If you can't find it, try unplugging other drives to help find it, or make sure you're using a USB-Ccble that supports data.
+6. After a few seconds, a drive should appear on your PC. If you can't find it, try unplugging other drives to help find it, or make sure you're using a USB-C cable that supports data.
 
 7. Ensure you have downloaded the latest software available for the project. It should be named something like: 'Desky_v1.0_software.uf2'
 
