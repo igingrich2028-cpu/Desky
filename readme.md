@@ -18,7 +18,7 @@ The software is based off of CircuitPython, and is also included in the current 
 What you'll need to make Desky:
 
 - Desky PCB
-- [Adafruit KB2040]([https://example.com](https://www.adafruit.com/product/5302))
+- [Adafruit KB2040](https://www.adafruit.com/product/5302)
 
 - 5x 6mm Push Buttons
 - 
