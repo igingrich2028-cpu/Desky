@@ -17,8 +17,9 @@ The software is based off of CircuitPython, and is also included in the current 
 
 What you'll need to make Desky:
 
-- Desky PCB
+- [Desky PCB](https://www.pcbway.com/)
 - [Adafruit KB2040](https://www.adafruit.com/product/5302)
-
-- 5x 6mm Push Buttons
-- 
+- (5x) [6mm Push Buttons](https://www.adafruit.com/product/367)
+- (3x) [4 Pin Socket](https://www.pololu.com/product/2704)
+- (3) [RGB Leds](https://www.adafruit.com/product/302?srsltid=AfmBOoplh49QI7sF4YxqZL7FxCV6AENwvTp9VEKICKwIZHZPgF9dEqHF)
+- Soldering Equipment (Or have the pcb assembled by a specialized service like PCBWay)
