@@ -39,6 +39,16 @@ What you'll need to make Desky:
 
 6. After a few seconds, a drive should appear on your PC. If you can't find it, try unplugging other drives to help find it, or make sure you're using a USB-C cable that supports data.
 
-7. Ensure you have downloaded the latest software available for the project. It should be named something like: 'Desky_v1.0_software.uf2'
+7. Ensure you have downloaded the latest software available for the project. It should be named something like: 'code.py'
 
-8. Drag-and-drop the .uf2 file onto the KB2040 drive. Upon successfully copying, the drive should eject by itself, reboot, and then re-attach your pc.
+8. Navigate into KB2040 drive on your PC. There should be a file in this drive named 'code.py'. Select this file and delete it.
+
+9. Copy the 'code.py' file from the Desky bundle release you downloaded. Paste it into the drive.
+
+10. Eject the drive and press the reset button on the KB2040.
+
+11. The Desky software should now succesfully be installed.
+
+# 3D Case
+
+As of now, files for a 3D printed case for Desky are in development and should be released shortly. 
