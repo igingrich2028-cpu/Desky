@@ -40,4 +40,4 @@ What you'll need to make Desky:
 
 7. Ensure you have downloaded the latest software available for the project. It should be named something like: 'Desky_v1.0_software.uf2'
 
-8. Drag-and-drop the .uf2 file onto the KB2040 drive. Upon successfully copying, the drive should eject by itself, reboot, and then re-attach your pc
+8. Drag-and-drop the .uf2 file onto the KB2040 drive. Upon successfully copying, the drive should eject by itself, reboot, and then re-attach your pc.
