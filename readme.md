@@ -52,3 +52,7 @@ What you'll need to make Desky:
 # 3D Case
 
 As of now, files for a 3D printed case for Desky are in development and should be released shortly. 
+
+# Other Information
+
+Check out the official Desky Instructable at: https://www.instructables.com/Desky/
