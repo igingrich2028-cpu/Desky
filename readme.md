@@ -55,4 +55,4 @@ As of now, files for a 3D printed case for Desky are in development and should b
 
 # Other Information
 
-Check out the official Desky Instructable at: https://www.instructables.com/Desky/
+[Check out the official Desky Instructable](https://www.instructables.com/Desky/)
